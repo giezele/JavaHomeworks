@@ -87,8 +87,8 @@ public class NDArrays {
 
         System.out.println("7. Insertion sort");
         System.out.println("Prieš rikiavimą: " + Arrays.toString(Arr2));
-        int n = Arr2.length;
-        for (int i = 1; i < n; ++i) {
+        // int n = Arr2.length;
+        for (int i = 1; i < Arr2.length; ++i) {
             int key = Arr2[i];
             int j = i - 1;
             while (j >= 0 && Arr2[j] > key) {

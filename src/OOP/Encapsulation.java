@@ -1,5 +1,5 @@
 
-package lt.giedre1.app;
+package OOP;
 
 // Sukurkite naują objektą iš duomenų įvestų per konsolę, objekto vidinius duomenis išspausdinkite.
 
